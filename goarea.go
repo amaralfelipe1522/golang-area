@@ -1,4 +1,4 @@
-package golang-area
+package area
 
 import "math"
 
